@@ -1,0 +1,6 @@
+.env
+*.zip
+*.wav
+*.csv
+*.gguf
+*.xlsx
